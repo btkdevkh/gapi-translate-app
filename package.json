@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "vcdev": "vercel dev"
+  },
   "devDependencies": {
     "dotenv": "^16.4.7"
   }
